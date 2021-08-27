@@ -1,0 +1,12 @@
+{
+  "name": "Nombre",
+  "version": "0.0.0",
+  "description": "",
+  "main": "ken.js",
+  "scripts": {
+  "start": "ken.js"
+  },
+  "dependencies": {npm install
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
